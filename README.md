@@ -9,3 +9,5 @@
 默认用户名/密码:admin/admin
 
 默认wifi密码:1234567890
+
+有问题请提交 https://github.com/Me-x/K2P/issues
