@@ -1,4 +1,4 @@
-# 自用k2P Padavan固件
+自用k2P Padavan固件
 
 #源码来自https://github.com/chongshengB/rt-n56u 感谢C大
 
