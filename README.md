@@ -2,7 +2,7 @@
 
 #源码来自https://github.com/chongshengB/rt-n56u 感谢C大
 
-#4.4.3.9版本源码来自https://github.com/hanwckf/padavan-4.4 感谢hanwckf
+#基于 4.4.198 Linux 内核版本源码来自https://github.com/hanwckf/padavan-4.4 感谢hanwckf
 
 
 #固件均使用https://github.com/chongshengB/Padavan-build 自动编译 
